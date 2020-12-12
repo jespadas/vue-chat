@@ -119,7 +119,7 @@ export default {
   display: flex;
   justify-content: center;
   min-height: 100vh;
-  background-color: #ea526f;
+  background-color: #44ca6c;
 
   &.login {
     align-items: center;
@@ -175,7 +175,7 @@ export default {
           display: block;
           width: 100%;
           padding: 10px 15px;
-          background-color: #ea526f;
+          background-color: #44ca6c;
           border-radius: 8px;
           color: #fff;
           font-size: 18px;
@@ -259,7 +259,7 @@ export default {
             .content {
               color: #fff;
               font-weight: 600;
-              background-color: #ea526f;
+              background-color: #44ca6c;
             }
           }
         }
@@ -303,7 +303,7 @@ export default {
           display: block;
           padding: 10px 15px;
           border-radius: 0px 8px 8px 0px;
-          background-color: #ea526f;
+          background-color:  #44ca6c;
           color: #fff;
           font-size: 18px;
           font-weight: 700;
